@@ -1,0 +1,13 @@
+@import url(../css/main/main.css);
+@import url(../css/timer/timer.css);
+@import url(../css/timer/__items/timer__items.css);
+@import url(../css/start/start.css);
+@import url(../css/start/__button/start__button.css);
+@import url(../css/start/__button/_start/start__button_start.css);
+@import url(../css/timer/__hours/timer__hours.css);
+@import url(../css/timer/__minutes/timer__minutes.css);
+@import url(../css/timer/__seconds/timer__seconds.css);
+@import url(../css/timer/__title/timer__title.css);
+@import url(../css/start/__form/start__form.css);
+@import url(../css/start/__input/start__input.css);
+@import url(../css/start/__button/_reset/start__button_reset.css);

@@ -1,0 +1,10 @@
+.start__button_start {
+    width: 100%;
+    min-height: 50px;
+    max-width: 250px;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: rgb(180, 239, 79);
+    margin-left: 10px;
+}

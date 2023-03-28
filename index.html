@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>1 task</title>
+    <link rel="stylesheet" href="./css/index.css">
+  </head>
+
+  <body>
+    <div class="main">
+      <div class="timer">
+        <span class="timer__hours">00</span>:<span class="timer__minutes">00</span>:<span class="timer__seconds">00</span>
+      <!-- можно сделать чуть чуть красивее, если использовать нижеприведенный код =) -->
+        <!-- <div class="timer__items"> 
+          <div class="timer__hours">00</div>
+          <div class="timer__title">h</div>
+        </div>
+        <div class="timer__items"> 
+          <div class="timer__minutes">00</div>
+          <div class="timer__title">m</div>
+        </div>
+        <div class="timer__items"> 
+          <div class="timer__seconds">00</div>
+          <div class="timer__title">s</div>
+        </div> -->
+      </div>
+      <div class="start">
+        <form id="start__form">
+          <input class="start__input" placeholder="Ввод" name="timer" type="number">
+        </form>
+        <div class="start__button">
+          <button type="submit" class="start__button_start">Start</button>
+          <button type="submit" class="start__button_reset"></button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./index.js" defer></script>
+  </body>
+</html>

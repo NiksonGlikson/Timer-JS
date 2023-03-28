@@ -1,0 +1,9 @@
+.start__input {
+    width: 100%;
+    min-height: 50px;
+    max-width: 250px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding-left: 15px;
+}

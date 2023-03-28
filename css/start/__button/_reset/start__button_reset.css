@@ -1,0 +1,11 @@
+.start__button_reset {
+    width: 100%;
+    min-height: 30px;
+    max-width: 50px;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    background: url(../../../../images/reset-alt.svg) no-repeat;
+    background-size: contain;
+    margin-left: 10px;
+}
